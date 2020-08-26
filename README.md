@@ -1,18 +1,17 @@
----
-page_type: sample
-languages:
-- nodejs
-- javascript
-products:
-- azure
-- azure-app-service
-description: "This sample demonstrates a tiny Hello World Node.js app for Azure App Service."
----
+# Calculator ReactJS
 
-# Node.js Hello World
+This is a simple arithmetic calculator built with REACT.JS library. 
 
-This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
+Live version deployed at [heroku](https://calculator-n.herokuapp.com/)
 
-## Contributing
+To run it on your local machine clone into the repo, then type: 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+    npm install && npm start
+    
+    
+A sneak peek: 
+
+![alt react-calculator-simple](Screenshot.png)
+
+
+
